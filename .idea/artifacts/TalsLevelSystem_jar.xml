@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TalsLevelSystem:jar">
+    <output-path>$USER_HOME$/Desktop/Dev/plugins</output-path>
+    <root id="archive" name="TalsLevelSystem.jar">
+      <element id="module-output" name="TalsLevelSystem" />
+    </root>
+  </artifact>
+</component>

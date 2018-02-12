@@ -1,0 +1,5 @@
+name: TalsLevelSystem
+version: ${project.version}
+main: tals.levelsystem.TalsLevelSystem
+commands:
+  tlevel:
